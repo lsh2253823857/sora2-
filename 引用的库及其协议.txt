@@ -1,0 +1,5 @@
+去水印					Apache2
+	https://github.com/linkedlist771/SoraWatermarkCleaner
+
+本工具遵守以上仓库的协议。
+
